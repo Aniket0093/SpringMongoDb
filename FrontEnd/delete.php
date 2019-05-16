@@ -43,7 +43,7 @@
 
 ?>
       
-      <a class="btn btn-primary" href="#" role="button">Update</a>
+      <h1>Record deleted successfully</h1>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
